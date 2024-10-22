@@ -1,0 +1,14 @@
+E:\Interview Preparation\C#\KazSoftware.DechiperText\bin\Debug\net8.0\KazSoftware.DechiperText.exe
+E:\Interview Preparation\C#\KazSoftware.DechiperText\bin\Debug\net8.0\KazSoftware.DechiperText.deps.json
+E:\Interview Preparation\C#\KazSoftware.DechiperText\bin\Debug\net8.0\KazSoftware.DechiperText.runtimeconfig.json
+E:\Interview Preparation\C#\KazSoftware.DechiperText\bin\Debug\net8.0\KazSoftware.DechiperText.dll
+E:\Interview Preparation\C#\KazSoftware.DechiperText\bin\Debug\net8.0\KazSoftware.DechiperText.pdb
+E:\Interview Preparation\C#\KazSoftware.DechiperText\obj\Debug\net8.0\KazSoftware.DechiperText.GeneratedMSBuildEditorConfig.editorconfig
+E:\Interview Preparation\C#\KazSoftware.DechiperText\obj\Debug\net8.0\KazSoftware.DechiperText.AssemblyInfoInputs.cache
+E:\Interview Preparation\C#\KazSoftware.DechiperText\obj\Debug\net8.0\KazSoftware.DechiperText.AssemblyInfo.cs
+E:\Interview Preparation\C#\KazSoftware.DechiperText\obj\Debug\net8.0\KazSoftware.DechiperText.csproj.CoreCompileInputs.cache
+E:\Interview Preparation\C#\KazSoftware.DechiperText\obj\Debug\net8.0\KazSoftware.DechiperText.dll
+E:\Interview Preparation\C#\KazSoftware.DechiperText\obj\Debug\net8.0\refint\KazSoftware.DechiperText.dll
+E:\Interview Preparation\C#\KazSoftware.DechiperText\obj\Debug\net8.0\KazSoftware.DechiperText.pdb
+E:\Interview Preparation\C#\KazSoftware.DechiperText\obj\Debug\net8.0\KazSoftware.DechiperText.genruntimeconfig.cache
+E:\Interview Preparation\C#\KazSoftware.DechiperText\obj\Debug\net8.0\ref\KazSoftware.DechiperText.dll
